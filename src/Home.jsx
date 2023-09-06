@@ -3,7 +3,6 @@ const Home = () => {
   return (
     <section className="hero" id="home">
       <div className="hero-banner">
-        <h1>ABES Engineering College, Ghaziabad</h1>
         <h2>Department of Computer Science</h2>
 
         <a href={testLink} className="btn hero-btn ">
