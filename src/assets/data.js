@@ -1,1 +1,1 @@
-export const testLink = "https://forms.office.com/r/CQwz0dbuV5";
+export const testLink = "https://www.hackerrank.com/coding-test-b-1242024";
